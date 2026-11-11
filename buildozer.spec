@@ -16,7 +16,7 @@ fullscreen = 0
 android.archs = arm64-v8a
 android.minapi = 24
 android.accept_sdk_license = True
-p4a.branch = issue_fix
+p4a.branch = develop
 
 [buildozer]
 
